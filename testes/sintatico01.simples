@@ -1,0 +1,8 @@
+programa teste
+  inteiro A B C
+  logico D E 4F
+inicio
+  @
+  A <- 666
+  senao
+fimprograma

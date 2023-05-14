@@ -1,0 +1,14 @@
+/*---------------------------
+   Programa teste
+  ---------------------------*/
+programa teste  
+  inteiro a b
+inicio  
+  leia a  // leitura de uma variavel
+  leia b  // leitura de outra variavel
+  enquanto a > b faca
+     escreva a * 10
+     a <- a - 1
+  fimenquanto
+fimprograma
+
