@@ -8,5 +8,5 @@ Para rodar o projeto é preciso ter instalado:
 * apt install flex
 * apt install yacc
 
-Para fazer a compilação dos arquivos e executar o parsers:
+Para fazer a compilação dos arquivos e executar o parser:
 * make -S -b
